@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bernard.bruck@gmail.com
+	name = Bernard Bruck
